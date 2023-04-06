@@ -12,6 +12,9 @@ header {
     font-size: 32px;
     margin: 0;
   }
+  nav {
+    background-color: aqua;
+  }
   
   nav ul {
     display: flex;
