@@ -9,11 +9,19 @@ header {
   }
   
   .banner h1 {
-    font-size: 32px;
+    font-size: 40px;
     margin: 0;
+    font-family:'Montserrat', sans-serif;
+    /* put the heading in the middle */
+    text-align: center;
+    background-color: #210062;
+    color: #fff;
+
   }
   nav {
-    background-color: aqua;
+    background-color: #210062;
+    font-family:'Montserrat', sans-serif;
+
   }
   
   nav ul {
@@ -43,3 +51,7 @@ header {
   
 /* how to add fonts
   font-family: 'Poppins', sans-serif; */
+
+body {
+    font-family: 'Poppins', sans-serif; 
+}
