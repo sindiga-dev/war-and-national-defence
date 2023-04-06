@@ -54,4 +54,35 @@ header {
 
 body {
     font-family: 'Poppins', sans-serif; 
+    /* add margin to the body */
+    margin: 10;
+    background-color: #f2f2f2;
+
 }
+
+table th, table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table th {
+    background-color: #f2f2f2;
+    text-align: left;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
